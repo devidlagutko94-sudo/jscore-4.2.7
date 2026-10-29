@@ -1,2 +1,0 @@
-
-postman-echo.com/get?id&email&password&fullName&createdAt
